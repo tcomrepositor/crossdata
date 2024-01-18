@@ -1,6 +1,13 @@
 [
 
 {
+   "Name": "Qr Code Monkey",
+	"Description": "Create cool Qr codes Now!",
+	"Link": "amzn://apps/android?p=com.epicappsgallery.sudoku.puzzlegame",
+	"Icon": "https://i.ibb.co/zZZ6G04/sudoku.png"
+},
+
+{
     "Name": "Sudoku",
 	"Description": "Brain stimulating game for all ages",
 	"Link": "amzn://apps/android?p=com.epicappsgallery.sudoku.puzzlegame",

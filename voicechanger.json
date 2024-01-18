@@ -1,6 +1,13 @@
 [
 
 {
+	"Name": "Qr Code Monkey",
+	"Description": "Create cool Qr codes Now!",
+	"Link": "samsungapps://ProductDetail/com.epicappsgallery.voicechanger.voicerecorder",
+	"Icon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+
+{
     "Name": "Sudoku",
 	"Description": "Brain stimulating game for all ages",
 	"Link": "samsungapps://ProductDetail/com.epicappsgallery.sudoku.puzzlegame",

@@ -1,6 +1,13 @@
 [
 
 {
+	"Name": "Voice Changer",
+	"Description": "Amazing voice changer App",
+	"Link": "amzn://apps/android?p=com.epicappsgallery.voicechanger.voicerecorder",
+	"Icon": "https://i.ibb.co/KWtkkkK/voice-changer.png"
+},	
+
+{
     "Name": "Sudoku",
 	"Description": "Brain stimulating game for all ages",
 	"Link": "amzn://apps/android?p=com.epicappsgallery.sudoku.puzzlegame",

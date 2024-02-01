@@ -40,6 +40,13 @@
 	"Description": "Qr/Barcode scanner & generator",
 	"Link": "amzn://apps/android?p=com.epicappsgallery.qrbarcodescannerapp",
 	"Icon": "https://i.ibb.co/pQy1FHb/qr-gnerator.png"
+},
+
+{
+	"Name": "Phone Manager Pro",
+	"Description": "Boost your phone performance with one click!",
+	"Link": "amzn://apps/android?p=com.epicappsgallery.phonemanagerprophonebooster",
+	"Icon": "https://i.ibb.co/SXQk3fd/fonemanager.png"
 }
 
 ]

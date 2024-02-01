@@ -19,6 +19,27 @@
 	"Description": "Amazing & fun to play arcade game",
 	"Link": "samsungapps://ProductDetail/com.epicappsgallery.carmerge.carsgames",
 	"Icon": "https://i.ibb.co/XLHx9Y4/cars-Merge.png"
+},
+
+{
+	"Name": "Phone Manager Pro",
+	"Description": "Boost your phone performance with one click!",
+	"Link": "samsungapps://ProductDetail/com.epicappsgallery.phonemanagerprophonebooster",
+	"Icon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+	
+{
+	"Name": "Internet Speed Test",
+	"Description": "Test your internet connection in one click!",
+	"Link": "samsungapps://ProductDetail/com.epicroyaleappslab.internetspeedtest.speedtest",
+	"Icon": "https://i.ibb.co/VpfzKj2/netspeed.png"
+},
+
+{
+	"Name": "SMS Scheduler Lite",
+	"Description": "Send your SMS whenever you want",
+	"Link": "samsungapps://ProductDetail/com.epicroyaleappslab.simplesmsscheduler",
+	"Icon": "https://i.ibb.co/ct96jWR/smstimer.png"
 }
 
 ]

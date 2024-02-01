@@ -22,10 +22,32 @@
 },
 
 {
+	"Name": "Phone Manager Pro",
+	"Description": "Boost your phone performance with one click!",
+	"Link": "https://global.app.mi.com/details?id=com.epicappsgallery.phonemanagerprophonebooster",
+	"Icon": "https://i.ibb.co/SXQk3fd/fonemanager.png"
+},
+
+{
 	"Name": "Voice Changer",
 	"Description": "Entertaining voice changer App",
 	"Link": "https://global.app.mi.com/details?id=com.epicappsgallery.voicechanger.voicerecorder",
 	"Icon": "https://i.ibb.co/KWtkkkK/voice-changer.png"
+},
+
+
+{
+	"Name": "SMS Scheduler Lite",
+	"Description": "Send your SMS whenever you want",
+	"Link": "https://global.app.mi.com/details?id=com.epicroyaleappslab.simplesmsscheduler",
+	"Icon": "https://i.ibb.co/ct96jWR/smstimer.png"
+},
+
+{
+	"Name": "QR & Barcode Scanner Pro",
+	"Description": "Qr/Barcode scanner & generator",
+	"Link": "https://global.app.mi.com/details?id=com.epicappsgallery.qrbarcodescannerapp",
+	"Icon": "https://i.ibb.co/pQy1FHb/qr-gnerator.png"
 }
 
 

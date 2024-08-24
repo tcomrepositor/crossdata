@@ -1,0 +1,74 @@
+[
+
+{
+    "Name": "Sudoku",
+  "Description": "Brain stimulating game for all ages",
+  "Link": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774778",
+  "Icon": "https://i.postimg.cc/Jz9Fh95B/sudoku.png"
+},
+
+{
+  "Name": "Cars War Merge",
+  "Description": "Amzing & fun to play arcade game",
+  "Link": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000773113",
+  "Icon": "https://i.ibb.co/XLHx9Y4/cars-Merge.png"
+},
+
+{
+  "Name": "Qr Code Monkey",
+  "Description": "Create cool Qr codes Now!",
+  "Link": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000773830",
+  "Icon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+
+{
+  "Name": "Water Sort",
+  "Description": "Brain stimulating puzzle game",
+  "Link": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774139",
+  "Icon": "https://i.postimg.cc/gJpBV85z/watersort.png"
+},
+
+  {
+  "Name": "Internet Speed Test",
+  "Description": "Test your internet connection in one click!",
+  "Link": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774096",
+  "Icon": "https://i.ibb.co/VpfzKj2/netspeed.png"
+},
+
+{
+  "Name": "Screw Sort",
+  "Description": "New trending puzzle game for all ages",
+  "Link": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000777429",
+  "Icon": "https://i.postimg.cc/1zwjVJv7/screwsort.png"
+},
+
+{
+  "Name": "QR & Barcode Scanner Pro",
+  "Description": "Qr/Barcode scanner & generator",
+  "Link": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000773877",
+  "Icon": "https://i.ibb.co/pQy1FHb/qr-gnerator.png"
+},
+
+   {
+    "appIcon": "https://i.ibb.co/8jX7pxt/web2pdf.png",
+    "appName": "WEB To PDF",
+    "appDescription": "Convert web pages to pdf file",
+    "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000775037"
+  },
+
+   {
+  "appName": "Phone Manager Pro",
+  "appDescription": "Boost your phone performance with one click!",
+  "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000773882",
+  "appIcon": "https://i.ibb.co/SXQk3fd/fonemanager.png"
+},
+
+{
+  "appName": "Calculator Lock - Vault Gallery",
+  "appDescription": "Hide your data from intruders now!",
+  "url": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000775789",
+  "appIcon": "https://i.ibb.co/hghrFFG/kalkvolt.png"
+}
+
+
+]

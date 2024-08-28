@@ -19,6 +19,124 @@
     "appName": "All Document Reader",
     "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
     "url": "https://apps.rustore.ru/app/com.epicroyaleapps.alldocumentreaderapp"
-  }
+  },
+  
+   {
+    "appIcon": "https://i.ibb.co/WsSKWKy/dupkontacktremover.png",
+    "appName": "Duplicate Contacts Remover",
+    "appDescription": "Remove duplicate contacts with one click!",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.duplicatecontactsremover"
+  },
+  
+   {
+    "appIcon": "https://i.ibb.co/QkvYdjN/logo.png",
+    "appName": "WhatsApp Tools Pro ",
+    "appDescription": "Status saver, deleted chat reader, direct message and more...",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.whatsapptoolsextra"
+  },
+  
+   {
+    "appIcon": "https://i.ibb.co/dk5jT3B/watsotoreply.png",
+    "appName": "WhatsApp Auto Reply",
+    "appDescription": "Simple auto reply for WhatsApp app",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.whatsappautoreplybot"
+  },
+  
+   {
+    "appIcon": "https://i.ibb.co/DGPRbYT/animeslayer.png",
+    "appName": "Anime & Manga Plus",
+    "appDescription": "Watch your favorite manga & anime for free!",
+    "url": "https://apps.rustore.ru/app/ar.freeHandyTools.mangaReaderDownloader"
+  },
+  
+   {
+    "appIcon": "https://i.ibb.co/GxfsQmx/gamebooster.png",
+    "appName": "Game Booster Pro",
+    "appDescription": "Enjoy the ultimate game experience with this app",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.gameboosteraccelerator"
+  },
+  
+   {
+    "appIcon": "https://images2.imgbox.com/4e/6c/MwY7fSg1_o.png",
+    "appName": "Pencil Sketch",
+    "appDescription": "Convert images to pencil amazing pencil sketches",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.pencilSketch.photoToPencilSketch"
+  },
+  
+   {
+    "appIcon": "https://images2.imgbox.com/93/c4/TBttjJYq_o.png",
+    "appName": "Background eraser",
+    "appDescription": "Background remover app",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.backgrounderaser"
+  },
+  
+    {
+    "appIcon": "https://images2.imgbox.com/e9/b9/VyrXt7tl_o.png",
+    "appName": "Cars Wallpapers 4k",
+    "appDescription": "HD cars wallpapers and backgrounds",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.freegamingwallpapers"
+  },
+  
+    {
+    "appIcon": "https://i.ibb.co/rmT2d3G/flashcompass.png",
+    "appName": "Flashlight & Compass",
+    "appDescription": "2 in 1 flashlight and compass app",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.smartflashlightcompass"
+  },
+  
+    {
+    "appIcon": "https://i.ibb.co/yfxp4BQ/minecraftskins.png",
+    "appName": "Minecraft skins",
+    "appDescription": "Amazing skins for Minecraft players",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.minecraftanimeskinapp"
+  },
 
+   {
+    "appIcon": "https://images2.imgbox.com/86/87/3wjwBmTV_o.png",
+    "appName": "Radio Online",
+    "appDescription": "Universal radio app",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.radiogardenonline"
+  },
+  
+     {
+    "appIcon": "https://i.ibb.co/RYJ2q45/stylishtxt.png",
+    "appName": "Stylish text",
+    "appDescription": "Style your text with fancy effects",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.stylish.text.app"
+  },
+  
+     {
+    "appIcon": "https://i.ibb.co/rtRtMgX/unitsconverter.png",
+    "appName": "Units Converter",
+    "appDescription": "Universal units converter app",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.onlineconverter.unitsconverter"
+  },
+  
+     {
+    "appIcon": "https://i.ibb.co/8jX7pxt/web2pdf.png",
+    "appName": "WEB To PDF",
+    "appDescription": "Convert web pages to pdf file",
+    "url": "https://apps.rustore.ru/app/com.epicroyaleappslab.webtopdfconverter"
+  },
+  
+       {
+    "appIcon": "https://i.ibb.co/0ZHkNcy/videoeditor.png",
+    "appName": "Video Editor Pro",
+    "appDescription": "Video & audio files editor tools",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.videoEditorFree"
+  },
+  
+       {
+    "appIcon": "https://i.ibb.co/jv3Gmqz/pdfconverter.png",
+    "appName": "Pdf Converter Pro ",
+    "appDescription": "One click video converter app",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.pdfconverterapp"
+  },
+  
+       {
+    "appIcon": "https://i.ibb.co/KsFB2Km/allvideo.png",
+    "appName": "Video Downloader Pro ",
+    "appDescription": "download your favorite videos with ease!",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.freetotalvideodownloaderapp"
+  }
 ]

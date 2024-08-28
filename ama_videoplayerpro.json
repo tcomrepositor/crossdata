@@ -1,8 +1,8 @@
 [
 
 {
-  "Name": "Sudoku",
-  "Description": "Brain stimulating game for all ages",
+  "appName": "Sudoku",
+  "appDescription": "Brain stimulating game for all ages",
   "url": "https://www.amazon.com/gp/product/B0CX9HG3JZ",
   "appIcon": "https://i.ibb.co/zZZ6G04/sudoku.png"
 },

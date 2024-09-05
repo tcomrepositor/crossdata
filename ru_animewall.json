@@ -1,10 +1,24 @@
 [
 
+	{
+    "appIcon": "https://images2.imgbox.com/1f/36/h26tRHWj_o.png",
+    "appName": "Mp3 Juice",
+    "appDescription": 'Mp3 downloader app",
+    "url": "https://apps.rustore.ru/app/com.handytoolsapps.filemanagerpro"
+  },
+
 {
     "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
     "appName": "File Manager Pro",
     "appDescription": "Smart file manager & explorer app",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.filemanagerpro"
+  },
+
+	{
+    "appIcon": "https://i.ibb.co/YRqHVFH/ruentrans.png",
+    "appName": "Russian English Translator",
+    "appDescription": "Fats & eaty russian - english translator app",
+    "url": "https://apps.rustore.ru/app/com.epicroyaleapps.russiantoenglishtranslator"
   },
 
 {

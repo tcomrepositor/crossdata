@@ -33,6 +33,22 @@
   "appDescription": "Professional flashlight app",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
   "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
+},
+
+  
+{
+  "appName": "PDF Reader Pro",
+  "appDescription": "Powerful pdf files reader app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.pdfreaderpro",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  
+{
+  "appName": "Background Video Recorder",
+  "appDescription": "Easy video recorder from background",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.backgroundvideorecorder",
+  "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
 }
 
 ]

@@ -27,14 +27,34 @@
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyalegames.watersort.puzzlegames",
   "appIcon": "https://i.ibb.co/3fJvbsR/watersort.png"
 },
+  
+{
+  "appName": "Background Video Recorder",
+  "appDescription": "Easy video recorder from background",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.backgroundvideorecorder",
+  "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
+},
+
+   {
+  "appName": "Data Recovery Pro",
+  "appDescription": "Recover deleted files with one click!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.deleted.data.recovery",
+  "appIcon": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
+},
 
 {
+  "appName": "Nfc Reader & Writer",
+  "appDescription": "Smart Nfc tags Manager",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.nfcreader.nfcwriter",
+  "appIcon": "https://i.ibb.co/9HBP9RcH/nfcreader.png"
+},
+
+  {
   "appName": "Flashlight Pro",
   "appDescription": "Professional flashlight app",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
   "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
 },
-
   
 {
   "appName": "PDF Reader Pro",
@@ -43,12 +63,18 @@
   "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
 },
 
-  
-{
-  "appName": "Background Video Recorder",
-  "appDescription": "Easy video recorder from background",
-  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.backgroundvideorecorder",
-  "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
+  {
+  "appName": "Document Scanner",
+  "appDescription": "Documents pdf scanner app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.documentscannerapp",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  {
+  "appName": "Zip Extractor",
+  "appDescription": "Zip/Rar files fast extractor & compressor",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.zip.unzip.unrar.extractor",
+  "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png"
 }
 
 ]

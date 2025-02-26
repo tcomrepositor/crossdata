@@ -35,7 +35,6 @@
   "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
 },
 
-  
 {
   "appName": "PDF Reader Pro",
   "appDescription": "Powerful pdf files reader app",
@@ -43,12 +42,39 @@
   "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
 },
 
-  
 {
   "appName": "Background Video Recorder",
   "appDescription": "Easy video recorder from background",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.backgroundvideorecorder",
   "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
+},
+
+  {
+  "appName": "Lyrics Finder",
+  "appDescription": "Get your favorite songs lyrics now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.lyricsfinderpro",
+  "appIcon": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
+},
+
+{
+  "appName": "Zip Extractor",
+  "appDescription": "Zip/Rar files fast extractor & compressor",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.zip.unzip.unrar.extractor",
+  "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png"
+},
+
+  {
+  "appName": "Data Recovery Pro",
+  "appDescription": "Recover deleted files with one click!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.deleted.data.recovery",
+  "appIcon": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
+},
+
+{
+  "appName": "Nfc Reader & Writer",
+  "appDescription": "Smart Nfc tags Manager",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.nfcreader.nfcwriter",
+  "appIcon": "https://i.ibb.co/9HBP9RcH/nfcreader.png"
 }
 
 ]

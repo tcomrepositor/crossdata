@@ -22,17 +22,53 @@
 },
 
 {
-  "appName": "Water Sort",
-  "appDescription": "For all puzzle games fans!",
-  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyalegames.watersort.puzzlegames",
-  "appIcon": "https://i.ibb.co/3fJvbsR/watersort.png"
+  "appName": "Lyrics Finder",
+  "appDescription": "Get your favorite songs lyrics now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.lyricsfinderpro",
+  "appIcon": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
 },
 
 {
+  "appName": "Zip Extractor",
+  "appDescription": "Zip/Rar files fast extractor & compressor",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.zip.unzip.unrar.extractor",
+  "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png"
+},
+
+  {
+  "appName": "Data Recovery Pro",
+  "appDescription": "Recover deleted files with one click!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.deleted.data.recovery",
+  "appIcon": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
+},
+
+{
+  "appName": "Nfc Reader & Writer",
+  "appDescription": "Smart Nfc tags Manager",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.nfcreader.nfcwriter",
+  "appIcon": "https://i.ibb.co/9HBP9RcH/nfcreader.png"
+},
+
+  {
   "appName": "Flashlight Pro",
   "appDescription": "Professional flashlight app",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
   "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
+},
+  
+{
+  "appName": "PDF Reader Pro",
+  "appDescription": "Powerful pdf files reader app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.pdfreaderpro",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  {
+  "appName": "Document Scanner",
+  "appDescription": "Documents pdf scanner app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.documentscannerapp",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
 }
+
 
 ]

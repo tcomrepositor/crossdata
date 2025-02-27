@@ -56,6 +56,13 @@
   "appIcon": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
 },
 
+ {
+  "appName": "Document Reader Pro",
+  "appDescription": "All documents reader app: PDF, XLS, DOC, PPT...",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.alldocumentreaderpdf",
+  "appIcon": "https://i.ibb.co/HpKsvxVJ/documentreaderppro.png"
+},
+
 {
   "appName": "Zip Extractor",
   "appDescription": "Zip/Rar files fast extractor & compressor",

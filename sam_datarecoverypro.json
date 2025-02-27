@@ -49,6 +49,13 @@
   "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
 },
 
+    {
+  "appName": "Document Reader Pro",
+  "appDescription": "All documents reader app: PDF, XLS, DOC, PPT...",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.alldocumentreaderpdf",
+  "appIcon": "https://i.ibb.co/HpKsvxVJ/documentreaderppro.png"
+},
+
   {
   "appName": "Nfc Reader & Writer",
   "appDescription": "Smart Nfc tags Manager",

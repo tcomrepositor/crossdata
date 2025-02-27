@@ -28,6 +28,13 @@
   "appIcon": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
 },
 
+   {
+  "appName": "Video Player Pro",
+  "appDescription": "All formats HD video player",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.videoplayerpro",
+  "appIcon": "https://i.ibb.co/VWT0JRtY/videoplayerpro.png"
+},
+
 {
   "appName": "Zip Extractor",
   "appDescription": "Zip/Rar files fast extractor & compressor",

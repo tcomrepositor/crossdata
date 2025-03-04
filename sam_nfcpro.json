@@ -28,13 +28,19 @@
   "appIcon": "https://i.ibb.co/3fJvbsR/watersort.png"
 },
 
-{
-  "appName": "Flashlight Pro",
-  "appDescription": "Professional flashlight app",
-  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
-  "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
+  {
+  "appName": "Duplicate Files Remover",
+  "appDescription": "Remove duplicate files with one click!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.duplicatefilesremover",
+  "appIcon": "https://i.ibb.co/wVQkqKb/duplicatesremover.png"
 },
 
+{
+  "appName": "Auto Clicker Lite",
+  "appDescription": "Automatic clicker app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
+  "appIcon": "https://i.ibb.co/C34y68Wn/autoclicker.png"
+},
   
 {
   "appName": "PDF Reader Pro",
@@ -83,6 +89,13 @@
   "appDescription": "Documents pdf scanner app",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.documentscannerapp",
   "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  {
+  "appName": "Flashlight Pro",
+  "appDescription": "Professional flashlight app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
+  "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
 }
 
 ]

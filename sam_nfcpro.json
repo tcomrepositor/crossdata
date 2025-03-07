@@ -29,6 +29,13 @@
 },
 
   {
+  "appName": "Qr & Barocde Reader",
+  "appDescription": "Fast Qr/Barcode Scanner & Generator",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrbarcodescannerapp",
+  "appIcon": "https://i.ibb.co/PGzVPNND/qrbarcodereader.png"
+},
+  
+  {
   "appName": "Duplicate Files Remover",
   "appDescription": "Remove duplicate files with one click!",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.duplicatefilesremover",

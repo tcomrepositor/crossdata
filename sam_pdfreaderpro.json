@@ -28,6 +28,13 @@
   "appIcon": "https://i.ibb.co/3fJvbsR/watersort.png"
 },
 
+  {
+  "appName": "Qr & Barocde Reader",
+  "appDescription": "Fast Qr/Barcode Scanner & Generator",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrbarcodescannerapp",
+  "appIcon": "https://i.ibb.co/PGzVPNND/qrbarcodereader.png"
+},
+
 {
   "appName": "Flashlight Pro",
   "appDescription": "Professional flashlight app",

@@ -1,5 +1,12 @@
 [
 
+   {
+  "appName": "Qr & Barocde Reader",
+  "appDescription": "Fast Qr/Barcode Scanner & Generator",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrbarcodescannerapp",
+  "appIcon": "https://i.ibb.co/PGzVPNND/qrbarcodereader.png"
+},
+
 {
   "appName": "Sudoku",
   "appDescription": "Brain stimulating game for all ages",
@@ -26,13 +33,6 @@
   "appDescription": "For all puzzle games fans!",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyalegames.watersort.puzzlegames",
   "appIcon": "https://i.ibb.co/3fJvbsR/watersort.png"
-},
-
-{
-  "appName": "Flashlight Pro",
-  "appDescription": "Professional flashlight app",
-  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
-  "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
 },
 
    {

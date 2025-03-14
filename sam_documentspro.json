@@ -1,5 +1,12 @@
 [
 
+  {
+  "appName": "Voice Recorder Pro",
+  "appDescription": "Lightweight voice recorder app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.voicerecorder",
+  "appIcon": "https://i.ibb.co/1tR9xf93/voicerecorderpro.png"
+},
+
 {
   "appName": "Sudoku",
   "appDescription": "Brain stimulating game for all ages",

@@ -1,6 +1,13 @@
 [
 
    {
+  "appName": "Radio FM Pro",
+  "appDescription": "Free universal radio app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.onlineradioapp",
+  "appIcon": "https://i.ibb.co/WWL1YR5R/radiopro.png"
+},
+
+   {
   "appName": "Voice Recorder Pro",
   "appDescription": "Lightweight voice recorder app",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.voicerecorder",

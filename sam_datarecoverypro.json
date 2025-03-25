@@ -13,6 +13,13 @@
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.onlineradioapp",
   "appIcon": "https://i.ibb.co/WWL1YR5R/radiopro.png"
 },
+
+  {
+  "appName": "Web To Pdf",
+  "appDescription": "Convert Web pages to pdf file",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.webtopdfconverter",
+  "appIcon": "https://i.ibb.co/ZRGq49Tb/web2pdf.png"
+},
   
 {
   "appName": "Sudoku",

@@ -8,6 +8,13 @@
 },
 
    {
+  "appName": "Web To Pdf",
+  "appDescription": "Convert Web pages to pdf file",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.webtopdfconverter",
+  "appIcon": "https://i.ibb.co/ZRGq49Tb/web2pdf.png"
+},
+
+   {
   "appName": "Voice Recorder Pro",
   "appDescription": "Lightweight voice recorder app",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.voicerecorder",

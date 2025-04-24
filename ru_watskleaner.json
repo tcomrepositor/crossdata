@@ -1,17 +1,24 @@
 [
 
 	{
+    "appIcon": "https://i.ibb.co/km8sf2W/tiktokdown.png",
+    "appName": "Скачать видео TikTok",
+    "appDescription": "Скачать видео TikTok без водяных знаков",
+    "url": "https://apps.rustore.ru/app/com.epicroyaleappslab.tiktokvideodownloaderwithoutwatermark"
+  },
+
+  {
     "appIcon": "https://i.ibb.co/nk9yts1/mp3Juice.png",
     "appName": "Mp3 Juice",
     "appDescription": "Бесплатный загрузчик музыки в формате Mp3",
     "url": "https://apps.rustore.ru/app/com.epicroyaleapps.mp3juicemusicstreaming"
   },
 
-		{
-    "appIcon": "https://i.ibb.co/km8sf2W/tiktokdown.png",
-    "appName": "Скачать видео TikTok",
-    "appDescription": "Скачать видео TikTok без водяных знаков",
-    "url": "https://apps.rustore.ru/app/com.epicroyaleappslab.tiktokvideodownloaderwithoutwatermark"
+	{
+    "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png",
+    "appName": "WhatsDelete",
+    "appDescription": "WhatsApp удаленные сообщения восстановление",
+    "url": "https://apps.rustore.ru/app/com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery"
   },
 
 	 {

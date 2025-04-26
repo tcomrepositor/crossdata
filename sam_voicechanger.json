@@ -1,0 +1,94 @@
+[
+
+{
+  "appName": "Sudoku",
+  "appDescription": "Brain stimulating game for all ages",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.sudoku.puzzlegame",
+  "appIcon": "https://i.ibb.co/zZZ6G04/sudoku.png"
+},
+
+{
+  "appName": "Solitaire 4-IN-1",
+  "appDescription": "4 entertaining solitaire game in 1",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.selektsoftgames.solitairegame.cardsgame",
+  "appIcon": "https://i.ibb.co/JRNxnpTM/amazon.png"
+},
+
+{
+  "appName": "Screw Sort",
+  "appDescription": "Trending puzzle game for all ages",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.selektsoftgames.screwsortpuzzle.puzzlegames",
+  "appIcon": "https://i.ibb.co/d45Y9SX/screwsort.png"
+},
+
+{
+  "appName": "Water Sort",
+  "appDescription": "For all puzzle games fans!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyalegames.watersort.puzzlegames",
+  "appIcon": "https://i.ibb.co/3fJvbsR/watersort.png"
+},
+
+{
+  "appName": "Flashlight Pro",
+  "appDescription": "Professional flashlight app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.flashlightpro",
+  "appIcon": "https://i.ibb.co/PzjP3St8/flashlightpro.png"
+},
+
+   {
+  "appName": "Document Scanner",
+  "appDescription": "Documents pdf scanner app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.documentscannerapp",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  {
+  "appName": "Zip Extractor",
+  "appDescription": "Zip/Rar files fast extractor & compressor",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.zip.unzip.unrar.extractor",
+  "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png"
+},
+
+ {
+  "appName": "Data Recovery Pro",
+  "appDescription": "Recover deleted files with one click!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.deleted.data.recovery",
+  "appIcon": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
+},
+
+   {
+  "appName": "Video Player Pro",
+  "appDescription": "All formats HD video player",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.videoplayerpro",
+  "appIcon": "https://i.ibb.co/VWT0JRtY/videoplayerpro.png"
+},
+
+   {
+  "appName": "Lyrics Finder",
+  "appDescription": "Get your favorite songs lyrics now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.lyricsfinderpro",
+  "appIcon": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
+},
+
+{
+  "appName": "Nfc Reader & Writer",
+  "appDescription": "Smart Nfc tags Manager",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.nfcreader.nfcwriter",
+  "appIcon": "https://i.ibb.co/9HBP9RcH/nfcreader.png"
+},
+
+{
+  "appName": "PDF Reader Pro",
+  "appDescription": "Powerful pdf files reader app",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.pdfreaderpro",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
+  {
+  "appName": "Background Video Recorder",
+  "appDescription": "Easy video recorder from background",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.backgroundvideorecorder",
+  "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
+}
+
+]

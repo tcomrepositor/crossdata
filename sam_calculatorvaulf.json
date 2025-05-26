@@ -7,6 +7,20 @@
   "appIcon": "https://i.ibb.co/zZZ6G04/sudoku.png"
 },
 
+    {
+  "appName": "WhatsDeleted",
+  "appDescription": "Read deleted WhatsApp Messages",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
+  "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png"
+},
+
+    {
+  "appName": "WhatsCleaner",
+  "appDescription": "All-in-one WhatsApp cleaner",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappcleaner",
+  "appIcon": "https://i.ibb.co/WW5dmPXR/whatscleanerlite.png"
+},
+
 {
   "appName": "Solitaire 4-IN-1",
   "appDescription": "4 entertaining solitaire game in 1",

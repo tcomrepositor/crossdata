@@ -7,6 +7,20 @@
   "appIcon": "https://i.ibb.co/qYxhz4Zf/torrentdownloader.png"
 },
 
+      {
+  "appName": "WhatsDeleted",
+  "appDescription": "Read deleted WhatsApp Messages",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
+  "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png"
+},
+
+    {
+  "appName": "WhatsCleaner",
+  "appDescription": "All-in-one WhatsApp cleaner",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappcleaner",
+  "appIcon": "https://i.ibb.co/WW5dmPXR/whatscleanerlite.png"
+},
+
 {
   "appName": "Sudoku",
   "appDescription": "Brain stimulating game for all ages",

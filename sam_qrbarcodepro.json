@@ -1,25 +1,24 @@
 [
 
+     {
+  "appName": "Mp3 Juice",
+  "appDescription": "Free non stop music",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleapps.mp3juicemusicstreaming",
+  "appIcon": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
+},
+
+    {
+  "appName": "Deleted Messages Recocery",
+  "appDescription": "Read deleted WhatsApp Messages",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
+  "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png"
+},
 
   {
   "appName": "Radio FM Pro",
   "appDescription": "Free universal radio app",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.onlineradioapp",
   "appIcon": "https://i.ibb.co/WWL1YR5R/radiopro.png"
-},
-
-    {
-  "appName": "WhatsDeleted",
-  "appDescription": "Read deleted WhatsApp Messages",
-  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
-  "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png"
-},
-
-    {
-  "appName": "WhatsCleaner",
-  "appDescription": "All-in-one WhatsApp cleaner",
-  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappcleaner",
-  "appIcon": "https://i.ibb.co/WW5dmPXR/whatscleanerlite.png"
 },
 
   {

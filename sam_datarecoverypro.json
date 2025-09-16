@@ -1,5 +1,12 @@
 [
 
+   {
+  "appName": "Qr Code Monkey",
+  "appDescription": "Create cool Qr codes Now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrcodemonkey",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+
   {
   "appName": "Voice Recorder Pro",
   "appDescription": "Lightweight voice recorder app",
@@ -142,3 +149,4 @@
   
 
 ]
+

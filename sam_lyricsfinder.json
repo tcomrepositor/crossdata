@@ -14,11 +14,11 @@
   "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png"
 },
 
-   {
-  "appName": "Qr & Barocde Reader",
-  "appDescription": "Fast Qr/Barcode Scanner & Generator",
-  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrbarcodescannerapp",
-  "appIcon": "https://i.ibb.co/PGzVPNND/qrbarcodereader.png"
+ {
+  "appName": "Qr Code Monkey",
+  "appDescription": "Create cool Qr codes Now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrcodemonkey",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
 },
 
    {
@@ -120,3 +120,4 @@
 }
 
 ]
+

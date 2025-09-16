@@ -8,6 +8,13 @@
 },
 
     {
+  "appName": "Qr Code Monkey",
+  "appDescription": "Create cool Qr codes Now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrcodemonkey",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+
+    {
   "appName": "Deleted Messages Recocery",
   "appDescription": "Read deleted WhatsApp Messages",
   "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery",
@@ -113,3 +120,4 @@
 }
 
 ]
+

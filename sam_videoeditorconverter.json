@@ -8,6 +8,13 @@
 },
 
       {
+  "appName": "Qr Code Monkey",
+  "appDescription": "Create cool Qr codes Now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrcodemonkey",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+
+      {
     "appIcon": "https://images2.imgbox.com/a6/e6/Pslyv2lK_o.png",
     "appName": "IPTV",
     "appDescription": "Smart Online Tv player for phoenes and tablets",
@@ -113,3 +120,4 @@
 }
 
 ]
+

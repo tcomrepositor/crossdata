@@ -7,6 +7,13 @@
     "url": "https://apps.rustore.ru/app/com.epicroyaleapps.mp3juicemusicstreaming"
   },
 
+		 {
+  "appName": "Qr Code Monkey",
+  "appDescription": "Создавайте красивые QR-коды прямо сейчас!",
+  "url": "https://apps.rustore.ru/app/com.epicappsgallery.qrcodemonkey",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+
 	 {
     "appIcon": "https://i.ibb.co/JR01H5W/pubgtools.png",
     "appName": "PUBG Tools",
@@ -153,4 +160,5 @@
     "appDescription": "Скачивайте любимые видео с легкостью!",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.freetotalvideodownloaderapp"
   }
+
 ]

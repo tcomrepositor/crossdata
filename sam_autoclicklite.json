@@ -14,11 +14,11 @@
   "appIcon": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
 },
 
-  {
-  "appName": "Web To Pdf",
-  "appDescription": "Convert Web pages to pdf file",
-  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyaleappslab.webtopdfconverter",
-  "appIcon": "https://i.ibb.co/ZRGq49Tb/web2pdf.png"
+ {
+  "appName": "Qr Code Monkey",
+  "appDescription": "Create cool Qr codes Now!",
+  "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicappsgallery.qrcodemonkey",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
 },
 
 {
@@ -113,3 +113,4 @@
 }
 
 ]
+

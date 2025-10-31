@@ -28,26 +28,76 @@
   "appIcon": "https://i.ibb.co/KWtkkkK/voice-changer.png"
 },
 
+     {
+  "appName": "Radio FM Pro",
+  "appDescription": "Free universal radio app",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappsgallery.onlineradioapp",
+  "appIcon": "https://i.ibb.co/WWL1YR5R/radiopro.png"
+},
+
+   {
+  "appName": "Torrent Downloader",
+  "appDescription": "Fast & free torrent downloader app",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappsgallery.torrentdownloaderapp",
+  "appIcon": "https://i.ibb.co/qYxhz4Zf/torrentdownloader.png"
+},
+
+   {
+  "appName": "Web To Pdf",
+  "appDescription": "Convert Web pages to pdf file",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.webtopdfconverter",
+  "appIcon": "https://i.ibb.co/ZRGq49Tb/web2pdf.png"
+},
+
+    {
+  "appName": "Document Scanner",
+  "appDescription": "Documents pdf scanner app",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.documentscannerapp",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
+},
+
   {
-  "appName": "Internet Speed Test",
-  "appDescription": "Test your internet connection in one click!",
-  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.internetspeedtest.speedtest",
-  "appIcon": "https://i.ibb.co/VpfzKj2/netspeed.png"
+  "appName": "Zip Extractor",
+  "appDescription": "Zip/Rar files fast extractor & compressor",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.zip.unzip.unrar.extractor",
+  "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png"
+},
+
+ {
+  "appName": "Data Recovery Pro",
+  "appDescription": "Recover deleted files with one click!",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleapps.deleted.data.recovery",
+  "appIcon": "https://i.ibb.co/TM2kFVFy/datarecoverypro.png"
+},
+
+   {
+  "appName": "Video Player Pro",
+  "appDescription": "All formats HD video player",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleapps.videoplayerpro",
+  "appIcon": "https://i.ibb.co/VWT0JRtY/videoplayerpro.png"
+},
+
+   {
+  "appName": "Lyrics Finder",
+  "appDescription": "Get your favorite songs lyrics now!",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.lyricsfinderpro",
+  "appIcon": "https://i.ibb.co/Pv2JZ8by/lyricspro.png"
 },
 
 {
-  "appName": "SMS Scheduler Lite",
-  "appDescription": "Send your SMS whenever you want",
-  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.simplesmsscheduler",
-  "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png"
+  "appName": "Nfc Reader & Writer",
+  "appDescription": "Smart Nfc tags Manager",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappsgallery.nfcreader.nfcwriter",
+  "appIcon": "https://i.ibb.co/9HBP9RcH/nfcreader.png"
 },
 
 {
-  "appName": "QR & Barcode Scanner Pro",
-  "appDescription": "Qr/Barcode scanner & generator",
-  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.qrbarcodescannerapp",
-  "appIcon": "https://i.ibb.co/pQy1FHb/qr-gnerator.png"
+  "appName": "PDF Reader Pro",
+  "appDescription": "Powerful pdf files reader app",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.pdfreaderpro",
+  "appIcon": "https://i.ibb.co/hFPRnBFB/pdfreaderpro.png"
 }
 
 	
+
 ]

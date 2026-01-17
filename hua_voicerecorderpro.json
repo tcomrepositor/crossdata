@@ -7,6 +7,20 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107584851"
   },
 
+	 	 {
+    "appIcon": "https://i.ibb.co/qYWt4hd0/lyrixo.png",
+    "appName": "Lyrixo",
+    "appDescription": "Free Songs Lyrics Finder App",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C116600137"
+  },
+	
+	 {
+    "appIcon": "https://i.ibb.co/JFHnyMB7/screenrecorder.png",
+    "appName": "Screen Recorder Pro",
+    "appDescription": "Record, Edit & Share In One Click!",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C116613533"
+  },
+
 	 {
     "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
     "appName": "File Manager Pro",
@@ -78,3 +92,4 @@
   }
 
 ]
+

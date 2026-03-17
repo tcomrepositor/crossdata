@@ -1,0 +1,58 @@
+[
+
+{
+  "appName": "Sudoku",
+  "appDescription": "Brain stimulating game for all ages",
+  "url": "https://www.amazon.com/gp/product/B0CX9HG3JZ",
+  "appIcon": "https://i.ibb.co/zZZ6G04/sudoku.png"
+},
+
+{
+  "appName": "Cars War Merge",
+  "appDescription": "Amzing & fun to play arcade game",
+  "url": "https://www.amazon.com/gp/product/B0CLKW6DDM",
+  "appIcon": "https://i.ibb.co/XLHx9Y4/cars-Merge.png"
+},
+
+{
+  "appName": "Qr Code Monkey",
+  "appDescription": "Create cool Qr codes Now!",
+  "url": "https://www.amazon.com/gp/product/B0CSGXBDJ1",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+
+{
+  "appName": "Voice Changer",
+  "appDescription": "Entertaining voice changer App",
+  "url": "https://www.amazon.com/gp/product/B0CSD1Q7MC",
+  "appIcon": "https://i.ibb.co/KWtkkkK/voice-changer.png"
+},
+
+  {
+  "appName": "Phone Manager Pro",
+  "appDescription": "Boost your phone performance with one click!",
+  "url": "https://www.amazon.com/gp/product/B0CSX94WZF",
+  "appIcon": "https://i.ibb.co/SXQk3fd/fonemanager.png"
+},
+
+{
+  "appName": "SMS Scheduler Lite",
+  "appDescription": "Send your SMS whenever you want",
+  "url": "https://www.amazon.com/gp/product/B0CTMRZGWH",
+  "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png"
+},
+
+{
+  "appName": "QR & Barcode Scanner Pro",
+  "appDescription": "Qr/Barcode scanner & generator",
+  "url": "https://www.amazon.com/gp/product/B0CSWG76CC",
+  "appIcon": "https://i.ibb.co/pQy1FHb/qr-gnerator.png"
+},
+
+{
+  "appName": "Calculator Lock - Vault Gallery",
+  "appDescription": "Hide your data from intruders now!",
+  "url": "https://www.amazon.com/gp/product/B0CWB96GL3",
+  "appIcon": "https://i.ibb.co/hghrFFG/kalkvolt.png"
+}
+]

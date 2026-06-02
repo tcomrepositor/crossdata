@@ -1,0 +1,53 @@
+[
+
+{
+    "appName": "Sudoku",
+  "appDescription": "Brain stimulating game for all ages",
+  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.sudoku.puzzlegame",
+  "appIcon": "https://i.ibb.co/zZZ6G04/sudoku.png"
+},
+
+{
+  "appName": "Cars War Merge",
+  "appDescription": "Amzing & fun to play arcade game",
+  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.carmerge.carsgames",
+  "appIcon": "https://i.ibb.co/XLHx9Y4/cars-Merge.png"
+},
+
+{
+  "appName": "Qr Code Monkey",
+  "appDescription": "Create cool Qr codes Now!",
+  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.qrcodemonkey",
+  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
+},
+
+{
+  "appName": "Voice Changer",
+  "appDescription": "Entertaining voice changer App",
+  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.voicechanger.voicerecorder",
+  "appIcon": "https://i.ibb.co/KWtkkkK/voice-changer.png"
+},
+
+  {
+  "appName": "Internet Speed Test",
+  "appDescription": "Test your internet connection in one click!",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.internetspeedtest.speedtest",
+  "appIcon": "https://i.ibb.co/VpfzKj2/netspeed.png"
+},
+
+{
+  "appName": "SMS Scheduler Lite",
+  "appDescription": "Send your SMS whenever you want",
+  "url": "https://global.app.mi.com/details?id=com.epicroyaleappslab.simplesmsscheduler",
+  "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png"
+},
+
+{
+  "appName": "QR & Barcode Scanner Pro",
+  "appDescription": "Qr/Barcode scanner & generator",
+  "url": "https://global.app.mi.com/details?id=com.epicappsgallery.qrbarcodescannerapp",
+  "appIcon": "https://i.ibb.co/pQy1FHb/qr-gnerator.png"
+}
+
+	
+]

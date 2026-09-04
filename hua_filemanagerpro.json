@@ -1,0 +1,59 @@
+ [
+
+	  {
+    "appIcon": "https://images2.imgbox.com/1f/36/h26tRHWj_o.png",
+    "appName": "Mp3 Juice",
+    "appDescription": "Free Mp3 music downloader app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107584851"
+  },
+
+	 {
+    "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
+    "appName": "File Manager Pro",
+    "appDescription": "Smart file manager & explorer",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110772983"
+  },
+
+ {
+    "appIcon": "https://i.ibb.co/VpfzKj2/netspeed.png",
+    "appName": "Internet Speed Test",
+    "appDescription": "Best net speed test app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110186445"
+  },
+
+ {
+    "appIcon": "https://i.ibb.co/ct96jWR/smstimer.png",
+    "appName": "Sms Scheduler Lite",
+    "appDescription": "Send your sms whenever you want!",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110186735"
+  },
+	
+	  {
+    "appIcon": "https://i.ibb.co/hxBCjCMk/radiofm.png",
+    "appName": "Radio FM Planet",
+    "appDescription": "Free universal radio player & recorder app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107689345"
+  },
+	
+		  {
+    "appIcon": "https://i.ibb.co/0j3FSxCY/qrscanner.png",
+    "appName": "Qr Code Scanner",
+    "appDescription": "Simple & easy QR reader and generator app",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693"
+  },
+  
+  {
+    "appIcon": "https://i.ibb.co/zWgn7dQy/duplicatefilesremover.png",
+    "appName": "Duplicate Files Remover",
+    "appDescription": "Clean your phone from duplicate files in one click!",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779"
+  },
+	
+  {
+    "appIcon": "https://i.ibb.co/8Dh7vxWR/alldocumentreader.png",
+    "appName": "All Document Reader",
+    "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947"
+  }
+
+]

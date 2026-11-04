@@ -1,11 +1,18 @@
  [
-	
+
 	  {
     "appIcon": "https://i.ibb.co/nk9yts1/mp3Juice.png",
     "appName": "Mp3 Juice",
     "appDescription": "Free Mp3 music downloader app",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107584851"
   },
+	
+  {
+    "appIcon": "https://i.ibb.co/8Dh7vxWR/alldocumentreader.png",
+    "appName": "All Document Reader",
+    "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947"
+  }
 
 	 	 {
     "appIcon": "https://i.ibb.co/qYWt4hd0/lyrixo.png",
@@ -14,13 +21,26 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C116600137"
   },
 
-	
 	 {
     "appIcon": "https://i.ibb.co/JFHnyMB7/screenrecorder.png",
     "appName": "Screen Recorder Pro",
     "appDescription": "Record, Edit & Share In One Click!",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C116613533"
   },
+	 
+	{
+    "appIcon": "https://i.ibb.co/M5CVjrPh/zipextractor.png",
+    "appName": "Zip Extractor",
+    "appDescription": "Zip/Rar files fast extractor",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C113547605"
+  },
+
+{
+  "appName": "Background Video Recorder",
+  "appDescription": "Useful background video recorder app",
+  "url": "https://appgallery.cloud.huawei.com/marketshare/app/113436171",
+  "appIcon": "https://i.ibb.co/gsK8VPt/bvr.png"
+},
 
 	 {
     "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
@@ -43,11 +63,11 @@
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110186735"
   },
 
-	 {
-    "appIcon": "https://images2.imgbox.com/ff/5d/c907AZQ3_o.png",
-    "appName": "WhatsApp Status Saver & Cleaner",
-    "appDescription": "Status Saver & Cleaner for WhatsApp and WhatsApp Business",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C108621493"
+	   {
+    "appIcon": "https://i.ibb.co/WsSKWKy/dupkontacktremover.png",
+    "appName": "Duplicate Contacts Remover",
+    "appDescription": "Backup, restore & remove duplicate contacts",
+    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C110870577"
   },
 	
    {
@@ -58,40 +78,24 @@
   },
 	
 	  {
-    "appIcon": "https://images2.imgbox.com/7c/4a/twAr6UdD_o.png",
+    "appIcon": "https://i.ibb.co/hxBCjCMk/radiofm.png",
     "appName": "Radio FM Planet",
     "appDescription": "Free universal radio player & recorder app",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107689345"
   },
 	
 		  {
-    "appIcon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
+    "appIcon": "https://i.ibb.co/0j3FSxCY/qrscanner.png",
     "appName": "Qr Code Scanner",
     "appDescription": "Simple & easy QR reader and generator app",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693"
   },
   
   {
-    "appIcon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
+    "appIcon": "https://i.ibb.co/zWgn7dQy/duplicatefilesremover.png",
     "appName": "Duplicate Files Remover",
     "appDescription": "Clean your phone from duplicate files in one click!",
     "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779"
-  },
-
-{
-    "appIcon": "https://images2.imgbox.com/8a/3e/Zqzersp3_o.png",
-    "appName": "Chat Locker For WhatsApp",
-    "appDescription": "Lock your WhatsApp Chats with one click",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107516467"
-  },
-	
-  {
-    "appIcon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
-    "appName": "All Document Reader",
-    "appDescription": "All In One Documnt reader : PDF, WORD, EXCEL, RAR & zip ...",
-    "url": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947"
   }
 
 ]
-
-

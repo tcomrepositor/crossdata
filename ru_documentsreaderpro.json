@@ -1,31 +1,10 @@
 [
 
-		{
-    "appIcon": "https://i.ibb.co/HLFrRQXB/bilimate.png",
-    "appName": "BiliMate: Скачать видео Bilibili",
-    "appDescription": "Скачать видео Bilibili в 8K",
-    "url": "https://www.rustore.ru/catalog/app/com.epicroyaleappsgallery.bilimate"
-  },
-
 	{
     "appIcon": "https://i.ibb.co/nk9yts1/mp3Juice.png",
     "appName": "Mp3 Juice",
     "appDescription": "Бесплатный загрузчик музыки в формате Mp3",
     "url": "https://apps.rustore.ru/app/com.epicroyaleapps.mp3juicemusicstreaming"
-  },
-
-		 {
-  "appName": "Qr Code Monkey",
-  "appDescription": "Создавайте красивые QR-коды прямо сейчас!",
-  "url": "https://apps.rustore.ru/app/com.epicappsgallery.qrcodemonkey",
-  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
-},
-
-  {
-    "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png",
-    "appName": "WhatsDelete",
-    "appDescription": "WhatsApp удаленные сообщения восстановление",
-    "url": "https://apps.rustore.ru/app/com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery"
   },
 
 	 {
@@ -55,13 +34,6 @@
 	"url": "https://apps.rustore.ru/app/com.handyToolsApps.whatsapp.cleaner",
 	"appIcon": "https://i.ibb.co/41VX8cm/watkleener.png"
 },
-
-  {
-    "appIcon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
-    "appName": "All Document Reader",
-    "appDescription": "Считыватель всех документов: PDF, WORD, EXCEL, RAR и zip...",
-    "url": "https://apps.rustore.ru/app/com.epicroyaleapps.alldocumentreaderapp"
-  },
   
    {
     "appIcon": "https://i.ibb.co/WsSKWKy/dupkontacktremover.png",
@@ -99,14 +71,14 @@
   },
   
    {
-    "appIcon": "https://images2.imgbox.com/93/c4/TBttjJYq_o.png",
+    "appIcon": "https://i.ibb.co/Rk5rtq8M/pencilsketch.png",
     "appName": "Background eraser",
     "appDescription": "Приложение для быстрого удаления фона",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.backgrounderaser"
   },
   
     {
-    "appIcon": "https://images2.imgbox.com/e9/b9/VyrXt7tl_o.png",
+    "appIcon": "https://i.ibb.co/KzF43KkZ/carswallpapers.png",
     "appName": "Cars Wallpapers 4k",
     "appDescription": "HD обои и фоны с автомобилями",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.freegamingwallpapers"
@@ -127,7 +99,7 @@
   },
 
    {
-    "appIcon": "https://images2.imgbox.com/86/87/3wjwBmTV_o.png",
+    "appIcon": "https://i.ibb.co/NgCmx480/radio-online.png",
     "appName": "Radio Online",
     "appDescription": "Универсальное радиоприложение",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.radiogardenonline"
@@ -175,4 +147,3 @@
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.freetotalvideodownloaderapp"
   }
 ]
-

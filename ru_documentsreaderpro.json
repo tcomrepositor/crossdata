@@ -85,7 +85,7 @@
   },
   
    {
-    "appIcon": "https://i.ibb.co/Rk5rtq8M/pencilsketch.png",
+    "appIcon": "https://i.ibb.co/jkK6FjB6/bgeraser.png",
     "appName": "Background eraser",
     "appDescription": "Приложение для быстрого удаления фона",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.backgrounderaser"
@@ -106,23 +106,9 @@
   },
   
     {
-    "appIcon": "https://i.ibb.co/yfxp4BQ/minecraftskins.png",
+    "appIcon": "https://i.ibb.co/LDNtHKnY/mcpeskins.png",
     "appName": "Minecraft skins",
     "appDescription": "Потрясающие скины для игроков Minecraft",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.minecraftanimeskinapp"
-  },
-  
-     {
-    "appIcon": "https://i.ibb.co/RYJ2q45/stylishtxt.png",
-    "appName": "Stylish text",
-    "appDescription": "Оформите свой текст с помощью причудливых эффектов",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.stylish.text.app"
-  },
-  
-     {
-    "appIcon": "https://i.ibb.co/rtRtMgX/unitsconverter.png",
-    "appName": "Units Converter",
-    "appDescription": "Универсальное приложение-конвертер единиц",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.onlineconverter.unitsconverter"
   }
 ]

@@ -16,7 +16,7 @@
 
 	 {
     "appIcon": "https://i.ibb.co/HLFrRQXB/bilimate.png",
-    "appName": "BiliMate",
+    "appName": "BiliMate Скачать видео",
     "appDescription": "Скачать видео Bilibili",
     "url": "https://www.rustore.ru/catalog/app/com.epicroyaleappsgallery.bilimate"
   },
@@ -30,14 +30,14 @@
 
 	{
     "appIcon": "https://i.ibb.co/xFKCCC1/whats-Direct.png",
-    "appName": "WhatsApp Direct",
+    "appName": "Ватсап Прямой чат",
     "appDescription": "Отправляйте сообщения, не сохраняя номер!",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.whatsappdirectmessage"
   },
 
 {
     "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
-    "appName": "File Manager Pro",
+    "appName": "Файловый менеджер",
     "appDescription": "Файловый менеджер и приложение-проводник",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.filemanagerpro"
   },
@@ -79,35 +79,35 @@
 
    {
     "appIcon": "https://i.ibb.co/Rk5rtq8M/pencilsketch.png",
-    "appName": "Pencil Sketch",
+    "appName": "Карандашный рисунок",
     "appDescription": "Преобразуйте изображения в карандашные наброски",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.pencilSketch.photoToPencilSketch"
   },
   
    {
     "appIcon": "https://i.ibb.co/jkK6FjB6/bgeraser.png",
-    "appName": "Background eraser",
+    "appName": "Фоновый ластик",
     "appDescription": "Приложение для быстрого удаления фона",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.backgrounderaser"
   },
   
     {
     "appIcon": "https://i.ibb.co/KzF43KkZ/carswallpapers.png",
-    "appName": "Cars Wallpapers 4k",
+    "appName": "Автомобили Обои 4k",
     "appDescription": "HD обои и фоны с автомобилями",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.freegamingwallpapers"
   },
   
     {
     "appIcon": "https://i.ibb.co/rmT2d3G/flashcompass.png",
-    "appName": "Flashlight & Compass",
+    "appName": "Фонарик и компас",
     "appDescription": "2 в 1 фонарик и компас",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.smartflashlightcompass"
   },
   
     {
     "appIcon": "https://i.ibb.co/LDNtHKnY/mcpeskins.png",
-    "appName": "Minecraft skins",
+    "appName": "Скины для Майнкрафта",
     "appDescription": "Потрясающие скины для игроков Minecraft",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.minecraftanimeskinapp"
   }

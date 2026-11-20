@@ -1,171 +1,107 @@
 [
 
-	{
-    "appIcon": "https://i.ibb.co/km8sf2W/tiktokdown.png",
-    "appName": "Скачать видео TikTok",
-    "appDescription": "Скачать видео TikTok без водяных знаков",
-    "url": "https://apps.rustore.ru/app/com.epicroyaleappslab.tiktokvideodownloaderwithoutwatermark"
+  {
+    "appIcon": "https://i.ibb.co/BVWVzDtV/videopro.png",
+    "appName": "Видеоредактор Pro",
+    "appDescription": "сжатие, обрезка, видео в MP3 & GIF",
+    "url": "https://www.rustore.ru/catalog/app/com.epicroyaleappsgallery.videoeditorapp"
   },
 
-		 {
-  "appName": "Qr Code Monkey",
-  "appDescription": "Создавайте красивые QR-коды прямо сейчас!",
-  "url": "https://apps.rustore.ru/app/com.epicappsgallery.qrcodemonkey",
-  "appIcon": "https://i.ibb.co/pL32B6W/qrmonkey.png"
-},
-
-	{
-    "appIcon": "https://i.ibb.co/20r42332/whatsdelete.png",
-    "appName": "WhatsDelete",
-    "appDescription": "WhatsApp удаленные сообщения восстановление",
-    "url": "https://apps.rustore.ru/app/com.epicroyaleappsgallery.whatsappdeletedmessagesrecovery"
+ {
+    "appIcon": "https://i.ibb.co/zVdJn5Ck/qrpro.png",
+    "appName": "Сканер QR и штрих-кодов & генераторF",
+    "appDescription": "Сканируйте и создавайте QR-коды и штрихкоды!",
+    "url": "https://www.rustore.ru/catalog/app/com.epicappsgallery.qrbarcodescannerapp"
   },
 
 	 {
-    "appIcon": "https://i.ibb.co/JR01H5W/pubgtools.png",
-    "appName": "PUBG Tools",
-    "appDescription": "Повысьте свои игровые возможности PUBG прямо сейчас!",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.gameboosteraccelerator"
+    "appIcon": "https://i.ibb.co/HLFrRQXB/bilimate.png",
+    "appName": "BiliMate Скачать видео",
+    "appDescription": "Скачать видео Bilibili",
+    "url": "https://www.rustore.ru/catalog/app/com.epicroyaleappsgallery.bilimate"
+  },
+
+       {
+    "appIcon": "https://i.ibb.co/QvPfgm5Q/screenrecorderpro.png",
+    "appName": "Запись экрана Про",
+    "appDescription": "Записывайте экран со звуком легко и быстро!",
+    "url": "https://www.rustore.ru/catalog/app/com.handytoolsapps.screenrecorderfree"
   },
 
 	{
     "appIcon": "https://i.ibb.co/xFKCCC1/whats-Direct.png",
-    "appName": "WhatsApp Direct",
+    "appName": "Ватсап Прямой чат",
     "appDescription": "Отправляйте сообщения, не сохраняя номер!",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.whatsappdirectmessage"
   },
 
 {
     "appIcon": "https://i.ibb.co/0sj6HNj/filemanagerpro.png",
-    "appName": "File Manager Pro",
+    "appName": "Файловый менеджер",
     "appDescription": "Файловый менеджер и приложение-проводник",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.filemanagerpro"
   },
 
 {
-	"appName": "WhatsApp Cleaner Pro",
-	"appDescription": "Очистите приложение WhatsApp одним щелчком мыши",
-	"url": "https://apps.rustore.ru/app/com.handyToolsApps.whatsapp.cleaner",
-	"appIcon": "https://i.ibb.co/41VX8cm/watkleener.png"
+	"appName": "IPTV Vega",
+	"appDescription": "IPTV плеер, M3U и Xtream",
+	"url": "https://www.rustore.ru/catalog/app/com.handytoolsapps.onlinetvstreaming",
+	"appIcon": "https://i.ibb.co/rftBWrXW/iptv-new.png"
 },
-
-  {
-    "appIcon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
-    "appName": "All Document Reader",
-    "appDescription": "Считыватель всех документов: PDF, WORD, EXCEL, RAR и zip...",
-    "url": "https://apps.rustore.ru/app/com.epicroyaleapps.alldocumentreaderapp"
+  
+   {
+    "appIcon": "https://i.ibb.co/Rp6TJHqz/torrentzpro.png",
+    "appName": "Torrent Pro",
+    "appDescription": "Скачивайте торренты быстро и бесплатно!",
+    "url": "https://www.rustore.ru/catalog/app/net.handytoolsapps.torrent"
   },
   
    {
-    "appIcon": "https://i.ibb.co/WsSKWKy/dupkontacktremover.png",
-    "appName": "Duplicate Contacts Remover",
-    "appDescription": "Удалите дубликаты контактов одним щелчком мыши!",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.duplicatecontactsremover"
+    "appIcon": "https://i.ibb.co/VWkM5x9M/kalkvolt.png",
+    "appName": "Калькулятор Замок",
+    "appDescription": "Скрыть фото и видео",
+    "url": "https://www.rustore.ru/catalog/app/com.epicroyaleappsgallery.hidemedia.calculatorvault"
   },
   
    {
-    "appIcon": "https://i.ibb.co/QkvYdjN/logo.png",
-    "appName": "WhatsApp Tools Pro ",
-    "appDescription": "Сохранение статуса, чтение удаленного чата, личные сообщения и многое другое...",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.whatsapptoolsextra"
-  },
-  
-   {
-    "appIcon": "https://i.ibb.co/dk5jT3B/watsotoreply.png",
-    "appName": "WhatsApp Auto Reply",
-    "appDescription": "Простой автоответчик для приложения WhatsApp",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.whatsappautoreplybot"
-  },
-  
-   {
-    "appIcon": "https://i.ibb.co/DGPRbYT/animeslayer.png",
-    "appName": "Anime & Manga Plus",
-    "appDescription": "Смотрите любимую мангу и аниме бесплатно!",
-    "url": "https://apps.rustore.ru/app/ar.freeHandyTools.mangaReaderDownloader"
+    "appIcon": "https://i.ibb.co/NgCmx480/radio-online.png",
+    "appName": "Радио FM Про",
+    "appDescription": "Слушайте FM-радио онлайн бесплатно!",
+    "url": "https://www.rustore.ru/catalog/app/com.epicroyaleappsgallery.onlineradioapp"
   },
 
    {
-    "appIcon": "https://images2.imgbox.com/4e/6c/MwY7fSg1_o.png",
-    "appName": "Pencil Sketch",
+    "appIcon": "https://i.ibb.co/Rk5rtq8M/pencilsketch.png",
+    "appName": "Карандашный рисунок",
     "appDescription": "Преобразуйте изображения в карандашные наброски",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.pencilSketch.photoToPencilSketch"
   },
   
    {
-    "appIcon": "https://images2.imgbox.com/93/c4/TBttjJYq_o.png",
-    "appName": "Background eraser",
+    "appIcon": "https://i.ibb.co/jkK6FjB6/bgeraser.png",
+    "appName": "Фоновый ластик",
     "appDescription": "Приложение для быстрого удаления фона",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.backgrounderaser"
   },
   
     {
-    "appIcon": "https://images2.imgbox.com/e9/b9/VyrXt7tl_o.png",
-    "appName": "Cars Wallpapers 4k",
+    "appIcon": "https://i.ibb.co/KzF43KkZ/carswallpapers.png",
+    "appName": "Автомобили Обои 4k",
     "appDescription": "HD обои и фоны с автомобилями",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.freegamingwallpapers"
   },
   
     {
     "appIcon": "https://i.ibb.co/rmT2d3G/flashcompass.png",
-    "appName": "Flashlight & Compass",
+    "appName": "Фонарик и компас",
     "appDescription": "2 в 1 фонарик и компас",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.smartflashlightcompass"
   },
   
     {
-    "appIcon": "https://i.ibb.co/yfxp4BQ/minecraftskins.png",
-    "appName": "Minecraft skins",
+    "appIcon": "https://i.ibb.co/LDNtHKnY/mcpeskins.png",
+    "appName": "Скины для Майнкрафта",
     "appDescription": "Потрясающие скины для игроков Minecraft",
     "url": "https://apps.rustore.ru/app/com.handytoolsapps.minecraftanimeskinapp"
-  },
-
-   {
-    "appIcon": "https://images2.imgbox.com/86/87/3wjwBmTV_o.png",
-    "appName": "Radio Online",
-    "appDescription": "Универсальное радиоприложение",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.radiogardenonline"
-  },
-  
-     {
-    "appIcon": "https://i.ibb.co/RYJ2q45/stylishtxt.png",
-    "appName": "Stylish text",
-    "appDescription": "Оформите свой текст с помощью причудливых эффектов",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.stylish.text.app"
-  },
-  
-     {
-    "appIcon": "https://i.ibb.co/rtRtMgX/unitsconverter.png",
-    "appName": "Units Converter",
-    "appDescription": "Универсальное приложение-конвертер единиц",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.onlineconverter.unitsconverter"
-  },
-  
-     {
-    "appIcon": "https://i.ibb.co/8jX7pxt/web2pdf.png",
-    "appName": "WEB To PDF",
-    "appDescription": "Конвертировать веб-сайт в файл PDF",
-    "url": "https://apps.rustore.ru/app/com.epicroyaleappslab.webtopdfconverter"
-  },
-  
-       {
-    "appIcon": "https://i.ibb.co/0ZHkNcy/videoeditor.png",
-    "appName": "Video Editor Pro",
-    "appDescription": "Инструменты для редактирования видео и аудио файлов",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.videoEditorFree"
-  },
-  
-       {
-    "appIcon": "https://i.ibb.co/jv3Gmqz/pdfconverter.png",
-    "appName": "Pdf Converter Pro ",
-    "appDescription": "Видеоконвертер в один кликp",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.pdfconverterapp"
-  },
-  
-       {
-    "appIcon": "https://i.ibb.co/KsFB2Km/allvideo.png",
-    "appName": "Video Downloader Pro",
-    "appDescription": "Скачивайте любимые видео с легкостью!",
-    "url": "https://apps.rustore.ru/app/com.handytoolsapps.freetotalvideodownloaderapp"
   }
 ]
-
